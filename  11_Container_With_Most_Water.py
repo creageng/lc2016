@@ -44,8 +44,6 @@ class Solution(object):
         right = len(height) - 1
         curr_area = 0
 
-        if len(height) == 0:
-            return 0
 
         while left < right:
             curr_area = min(height[left], height[right]) * (right-left)
