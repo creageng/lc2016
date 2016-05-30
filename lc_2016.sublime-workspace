@@ -3,19 +3,57 @@
 	{
 		"selected_items":
 		[
+			[
+				"fr",
+				"front_index"
+			],
+			[
+				"n",
+				"num_nodes"
+			],
+			[
+				"k",
+				"k_tuple"
+			],
+			[
+				"lst",
+				"lst_letters"
+			],
+			[
+				"le",
+				"letterCombinations"
+			],
+			[
+				"sum",
+				"sum_3"
+			],
+			[
+				"close",
+				"closeDiff"
+			],
+			[
+				"lo",
+				"longestCommonPrefix"
+			],
+			[
+				"c",
+				"curr_area"
+			],
+			[
+				"m",
+				"maxArea"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"contents": "\n# array, two pointers\n\nclass Solution(object):\n    def maxArea(self, height):\n        \"\"\"\n        :type height: List[int]\n        :rtype: int\n        \"\"\"\n        maxVol = 0\n\n        left = 0\n        right = len(height) - 1\n\n        while left < right:\n        	if height[left+1]",
-			"file": " 11_Container_With_Most_Water.py",
-			"file_size": 276,
-			"file_write_time": 131080874150000000,
+			"file": "20._Valid_Parentheses.py",
 			"settings":
 			{
-				"buffer_size": 279,
-				"line_ending": "Unix"
+				"buffer_size": 834,
+				"line_ending": "Unix",
+				"name": "20. Valid Parentheses"
 			}
 		}
 	],
@@ -55,6 +93,15 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/19_Remove_Nth_Node_From_End_of_List.py",
+		"/Users/haifenggeng/programming/lc/lc2016/18_4Sum.py",
+		"/Users/haifenggeng/programming/lc/lc2016/17_ Letter_Combinations_of_a_Phone_Number.py",
+		"/Users/haifenggeng/programming/lc/lc2016/16_3Sum_Closest.py",
+		"/Users/haifenggeng/programming/lc/lc2016/15_3Sum.py",
+		"/Users/haifenggeng/programming/lc/lc2016/14_Longest_Common_Prefix.py",
+		"/Users/haifenggeng/programming/lc/lc2016/12_Integer_to_Roman.py",
+		"/Users/haifenggeng/programming/lc/lc2016/13_Roman_to_Integer.py",
+		"/Users/haifenggeng/programming/lc/lc2016/ 11_Container_With_Most_Water.py",
 		"/Users/haifenggeng/programming/gt/HI6440/HI5_partial/ehr/views.py",
 		"/Users/haifenggeng/programming/gt/HI6440/HI5_partial/ehr/forms_medication_order.py",
 		"/Users/haifenggeng/programming/gt/HI6440/HI5_partial/ehr/context_processor.py",
@@ -73,7 +120,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
@@ -87,6 +134,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"num"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -94,6 +142,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"nums"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -109,24 +158,26 @@
 			[
 				{
 					"buffer": 0,
-					"file": " 11_Container_With_Most_Water.py",
+					"file": "20._Valid_Parentheses.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 279,
+						"buffer_size": 834,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								265,
-								265
+								831,
+								831
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"auto_name": "20. Valid Parentheses",
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -140,7 +191,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -177,7 +228,7 @@
 	"project": "lc_2016.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -215,7 +266,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 264.0,
+	"side_bar_width": 147.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
