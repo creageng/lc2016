@@ -4,12 +4,28 @@
 		"selected_items":
 		[
 			[
-				"fr",
-				"front_index"
+				"in",
+				"index"
 			],
 			[
 				"n",
-				"num_nodes"
+				"num"
+			],
+			[
+				"ne",
+				"newhead"
+			],
+			[
+				"hea",
+				"heap"
+			],
+			[
+				"Li",
+				"ListNode"
+			],
+			[
+				"fr",
+				"front_index"
 			],
 			[
 				"k",
@@ -48,12 +64,11 @@
 	"buffers":
 	[
 		{
-			"file": "20._Valid_Parentheses.py",
+			"file": "28_Implement_strStr.py",
 			"settings":
 			{
-				"buffer_size": 834,
-				"line_ending": "Unix",
-				"name": "20. Valid Parentheses"
+				"buffer_size": 655,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -93,6 +108,14 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/27_Remove_Element.py",
+		"/Users/haifenggeng/programming/lc/lc2016/26_Remove_Duplicates_from_Sorted_Array.py",
+		"/Users/haifenggeng/programming/lc/lc2016/25_Reverse_Nodes_in_k-Group.py",
+		"/Users/haifenggeng/programming/lc/lc2016/24_Swap_Nodes_in_Pairs.py",
+		"/Users/haifenggeng/programming/lc/lc2016/23_Merge_k_Sorted_Lists.py",
+		"/Users/haifenggeng/programming/lc/lc2016/22_Generate_Parentheses.py",
+		"/Users/haifenggeng/programming/lc/lc2016/20._Valid_Parentheses.py",
+		"/Users/haifenggeng/programming/lc/lc2016/21_Merge_Two_Sorted_Lists.py",
 		"/Users/haifenggeng/programming/lc/lc2016/19_Remove_Nth_Node_From_End_of_List.py",
 		"/Users/haifenggeng/programming/lc/lc2016/18_4Sum.py",
 		"/Users/haifenggeng/programming/lc/lc2016/17_ Letter_Combinations_of_a_Phone_Number.py",
@@ -158,24 +181,23 @@
 			[
 				{
 					"buffer": 0,
-					"file": "20._Valid_Parentheses.py",
+					"file": "28_Implement_strStr.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 834,
+						"buffer_size": 655,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								831,
-								831
+								471,
+								471
 							]
 						],
 						"settings":
 						{
-							"auto_name": "20. Valid Parentheses",
 							"syntax": "Packages/Python/Python.sublime-syntax",
 							"translate_tabs_to_spaces": true
 						},
@@ -266,7 +288,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 147.0,
+	"side_bar_width": 172.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
