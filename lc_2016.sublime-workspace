@@ -4,6 +4,38 @@
 		"selected_items":
 		[
 			[
+				"wo",
+				"word"
+			],
+			[
+				"de",
+				"defaultdict"
+			],
+			[
+				"s",
+				"subd"
+			],
+			[
+				"c",
+				"currWords"
+			],
+			[
+				"words",
+				"wordsTotal"
+			],
+			[
+				"is",
+				"isPositive"
+			],
+			[
+				"di",
+				"divisor"
+			],
+			[
+				"divi",
+				"divisor"
+			],
+			[
 				"in",
 				"index"
 			],
@@ -52,10 +84,6 @@
 				"longestCommonPrefix"
 			],
 			[
-				"c",
-				"curr_area"
-			],
-			[
 				"m",
 				"maxArea"
 			]
@@ -64,10 +92,10 @@
 	"buffers":
 	[
 		{
-			"file": "28_Implement_strStr.py",
+			"file": "31_Next_Permutation.py",
 			"settings":
 			{
-				"buffer_size": 655,
+				"buffer_size": 1472,
 				"line_ending": "Unix"
 			}
 		}
@@ -108,6 +136,9 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/30_Substring_with_Concatenation_of_All_Words.py",
+		"/Users/haifenggeng/programming/lc/lc2016/29_Divide_Two_Integers.py",
+		"/Users/haifenggeng/programming/lc/lc2016/28_Implement_strStr.py",
 		"/Users/haifenggeng/programming/lc/lc2016/27_Remove_Element.py",
 		"/Users/haifenggeng/programming/lc/lc2016/26_Remove_Duplicates_from_Sorted_Array.py",
 		"/Users/haifenggeng/programming/lc/lc2016/25_Reverse_Nodes_in_k-Group.py",
@@ -181,19 +212,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "28_Implement_strStr.py",
+					"file": "31_Next_Permutation.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 655,
+						"buffer_size": 1472,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								471,
-								471
+								1472,
+								1472
 							]
 						],
 						"settings":

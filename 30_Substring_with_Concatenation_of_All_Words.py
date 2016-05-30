@@ -9,7 +9,7 @@
 
 
 
-class Solution(object):
+class Solution1(object):
     def findSubstring(self, s, words):
         """
         :type s: str
@@ -36,5 +36,57 @@ class Solution(object):
                 res.append(i)
 
         return res                  
+
+
+
+
+class Solution2(object):
+    def findSubstring(self, s, words):
+        """
+        :type s: str
+        :type words: List[str]
+        :rtype: List[int]
+        """
+        from collections import Counter
+        from collections import defaultdict
+
+        c = Counter(words)
+        m = len(words)
+        n = len(words[0])
+        res = []
+        total_length = m * n
+
+        for k in range(n):
+            left = k
+            subd = defaultdict(int)
+            count = 0
+            #loop over the string
+            for j in range(k, len(s)-n+1, n):
+                #get a word from observed substring
+                word = s[j:j+n]
+                #check if it is a valid word
+                if word in c:
+                    subd[word] += 1
+                    count += 1
+                ##Shift the window as long as we have encountered more 
+                # number of a word than is needed
+                    while subd[word] > c[word]:
+                        subd[s[left:left+n]] -= 1
+                        left += n
+                        count -= 1
+                    if count  == m:
+                        res.append(left)
+                        
+                else:
+                    left = j + n
+                    subd = defaultdict(int)
+                    count = 0
+        
+        return res
+
+
+        
+
+
 
 
