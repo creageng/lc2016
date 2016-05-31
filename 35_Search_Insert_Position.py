@@ -22,22 +22,22 @@ class Solution(object):
         r = len(nums)
         
         if target > nums[-1]:
-        	return len(nums)
+            return len(nums)
 
         while l <= r:
-        	m = (l + r)/2
+            m = (l + r)/2
 
-        	if nums[m] == target:
-        		return m
+            if nums[m] == target:
+                return m
 
-        	if m > 1 and nums[m-1] < target < nums[m]:
-        		return m	
+            if m > 1 and nums[m-1] < target < nums[m]:
+                return m    
 
 
-        	if nums[m] < target:
-        		l = m+1
-        	else:
-        		r = m-1
+            if nums[m] < target:
+                l = m+1
+            else:
+                r = m-1
         return l
 
 
