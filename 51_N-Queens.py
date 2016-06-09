@@ -26,7 +26,30 @@ class Solution(object):
         :type n: int
         :rtype: List[List[str]]
         """
+        res = []
+        board = [-1 for i in range(n)]
 
-        
+        def check(k,j):
+            # check if the kth queen can be put in column j
+            for i in range(k):
+                if board[i] == j or abs(k-i) == abs(board[i] - j):
+                    return False
+            return True
+
+        def dfs(depth, valuelist):
+            if depth == n:
+                res.append(valuelist)
+                return
+
+            for j in range(n):
+                if check(depth, j):
+                    board[depth] = j
+                    s = '.' * n
+                    dfs(depth + 1, valuelist + [s[:j] + 'Q' + s[j + 1:]])
+
+        dfs(0, [])
+
+        return res
+
 
 
