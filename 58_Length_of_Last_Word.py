@@ -14,12 +14,8 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-
         # l = s.split(" ")
-
         # return len(s[-1])
-
         return len(s.split()[-1]) if s.split () != [] else 0
-
 #         return len(s.rstrip(' ').split(' ')[-1])
 # # 
