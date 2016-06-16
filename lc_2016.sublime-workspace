@@ -4,20 +4,80 @@
 		"selected_items":
 		[
 			[
-				"wo",
-				"word"
+				"ob",
+				"obstacleGrid"
 			],
 			[
-				"de",
-				"defaultdict"
+				"col",
+				"col_st"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"ne",
+				"newInterval"
 			],
 			[
 				"s",
-				"subd"
+				"sintervals"
+			],
+			[
+				"str",
+				"startings"
+			],
+			[
+				"in",
+				"intervals"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"re",
+				"reversed"
+			],
+			[
+				"de",
+				"depth"
 			],
 			[
 				"c",
-				"currWords"
+				"collections"
+			],
+			[
+				"wo",
+				"sortedWord"
+			],
+			[
+				"pe",
+				"permuteUnique"
+			],
+			[
+				"ma",
+				"maxJump"
+			],
+			[
+				"p",
+				"pStar"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"n",
+				"num1"
+			],
+			[
+				"l_",
+				"l_max"
+			],
+			[
+				"com",
+				"combinationSum"
 			],
 			[
 				"words",
@@ -34,18 +94,6 @@
 			[
 				"divi",
 				"divisor"
-			],
-			[
-				"in",
-				"index"
-			],
-			[
-				"n",
-				"num"
-			],
-			[
-				"ne",
-				"newhead"
 			],
 			[
 				"hea",
@@ -92,10 +140,10 @@
 	"buffers":
 	[
 		{
-			"file": "31_Next_Permutation.py",
+			"file": "64_Minimum_Path_Sum.py",
 			"settings":
 			{
-				"buffer_size": 1472,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -136,6 +184,39 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/63_Unique_Paths_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/62_Unique_Paths.py",
+		"/Users/haifenggeng/programming/lc/lc2016/61_Rotate_List.py",
+		"/Users/haifenggeng/programming/lc/lc2016/60_Permutation_Sequence.py",
+		"/Users/haifenggeng/programming/lc/lc2016/59_Spiral_Matrix_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/58_Length_of_Last_Word.py",
+		"/Users/haifenggeng/programming/lc/lc2016/57_Insert_Interval.py",
+		"/Users/haifenggeng/programming/lc/lc2016/56_Merge_Intervals.py",
+		"/Users/haifenggeng/programming/lc/lc2016/55_Jump_Game.py",
+		"/Users/haifenggeng/programming/lc/lc2016/54_Spiral_Matrix.py",
+		"/Users/haifenggeng/programming/lc/lc2016/53_Maximum_Subarray.py",
+		"/Users/haifenggeng/programming/lc/lc2016/52_N-Queens_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/51_N-Queens.py",
+		"/Users/haifenggeng/programming/lc/lc2016/50_Pow(x, n).py",
+		"/Users/haifenggeng/programming/lc/lc2016/49_Group_Anagrams.py",
+		"/Users/haifenggeng/programming/lc/lc2016/48_Rotate_Image.py",
+		"/Users/haifenggeng/programming/lc/lc2016/47_Permutations_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/46_Permutations.py",
+		"/Users/haifenggeng/programming/lc/lc2016/45_Jump_Game II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/44_Wildcard_Matching.py",
+		"/Users/haifenggeng/programming/lc/lc2016/43_Multiply_Strings.py",
+		"/Users/haifenggeng/programming/lc/lc2016/42_Trapping_Rain_Water.py",
+		"/Users/haifenggeng/programming/lc/lc2016/41_First_Missing_Positive.py",
+		"/Users/haifenggeng/programming/lc/lc2016/40_Combination_Sum_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/39_Combination_Sum.py",
+		"/Users/haifenggeng/programming/lc/lc2016/38_Count_and_Say.py",
+		"/Users/haifenggeng/programming/lc/lc2016/37_Sudoku_Solver.py",
+		"/Users/haifenggeng/programming/lc/lc2016/36_Valid_Sudoku.py",
+		"/Users/haifenggeng/programming/lc/lc2016/35_Search_Insert_Position.py",
+		"/Users/haifenggeng/programming/lc/lc2016/34_Search_for_a_Range.py",
+		"/Users/haifenggeng/programming/lc/lc2016/33_Search_in_Rotated_Sorted_Array.py",
+		"/Users/haifenggeng/programming/lc/lc2016/32_Longest_Valid_Parentheses.py",
+		"/Users/haifenggeng/programming/lc/lc2016/31_Next_Permutation.py",
 		"/Users/haifenggeng/programming/lc/lc2016/30_Substring_with_Concatenation_of_All_Words.py",
 		"/Users/haifenggeng/programming/lc/lc2016/29_Divide_Two_Integers.py",
 		"/Users/haifenggeng/programming/lc/lc2016/28_Implement_strStr.py",
@@ -212,25 +293,24 @@
 			[
 				{
 					"buffer": 0,
-					"file": "31_Next_Permutation.py",
+					"file": "64_Minimum_Path_Sum.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1472,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1472,
-								1472
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -319,7 +399,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 172.0,
+	"side_bar_width": 141.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
