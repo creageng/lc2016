@@ -4,6 +4,74 @@
 		"selected_items":
 		[
 			[
+				"bo",
+				"board"
+			],
+			[
+				"re",
+				"res_comb"
+			],
+			[
+				"min",
+				"minsize"
+			],
+			[
+				"mi",
+				"minstart"
+			],
+			[
+				"mini",
+				"minsize"
+			],
+			[
+				"s",
+				"start"
+			],
+			[
+				"a",
+				"appeared"
+			],
+			[
+				"m",
+				"matrix"
+			],
+			[
+				"row",
+				"row1_zero"
+			],
+			[
+				"wo",
+				"word1"
+			],
+			[
+				"wor",
+				"word2"
+			],
+			[
+				"se",
+				"sep_len"
+			],
+			[
+				"spa",
+				"space_len"
+			],
+			[
+				"w",
+				"word_len"
+			],
+			[
+				"ma",
+				"maxWidth"
+			],
+			[
+				"stack",
+				"stackLen"
+			],
+			[
+				"len",
+				"len_words"
+			],
+			[
 				"ob",
 				"obstacleGrid"
 			],
@@ -12,16 +80,8 @@
 				"col_st"
 			],
 			[
-				"len",
-				"length"
-			],
-			[
 				"ne",
 				"newInterval"
-			],
-			[
-				"s",
-				"sintervals"
 			],
 			[
 				"str",
@@ -36,10 +96,6 @@
 				"length"
 			],
 			[
-				"re",
-				"reversed"
-			],
-			[
 				"de",
 				"depth"
 			],
@@ -48,16 +104,8 @@
 				"collections"
 			],
 			[
-				"wo",
-				"sortedWord"
-			],
-			[
 				"pe",
 				"permuteUnique"
-			],
-			[
-				"ma",
-				"maxJump"
 			],
 			[
 				"p",
@@ -130,20 +178,16 @@
 			[
 				"lo",
 				"longestCommonPrefix"
-			],
-			[
-				"m",
-				"maxArea"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "64_Minimum_Path_Sum.py",
+			"file": "83_Remove_Duplicates_from_Sorted_List.py",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 944,
 				"line_ending": "Unix"
 			}
 		}
@@ -184,6 +228,25 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/82_Remove_Duplicates_from_Sorted_List_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/81_Search_in_Rotated_Sorted_Array_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/80_Remove_Duplicates_from_Sorted_Array_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/79_Word_Search.py",
+		"/Users/haifenggeng/programming/lc/lc2016/78_Subsets.py",
+		"/Users/haifenggeng/programming/lc/lc2016/77_Combinations.py",
+		"/Users/haifenggeng/programming/lc/lc2016/76_Minimum_Window_Substring.py",
+		"/Users/haifenggeng/programming/lc/lc2016/75_Sort_Colors.py",
+		"/Users/haifenggeng/programming/lc/lc2016/74_Search_a_2D_Matrix.py",
+		"/Users/haifenggeng/programming/lc/lc2016/73_Set_Matrix_Zeroes.py",
+		"/Users/haifenggeng/programming/lc/lc2016/72_Edit_Distance.py",
+		"/Users/haifenggeng/programming/lc/lc2016/71_Simplify_Path.py",
+		"/Users/haifenggeng/programming/lc/lc2016/70_Climbing_Stairs.py",
+		"/Users/haifenggeng/programming/lc/lc2016/69_Sqrt(x).py",
+		"/Users/haifenggeng/programming/lc/lc2016/68_Text_Justification.py",
+		"/Users/haifenggeng/programming/lc/lc2016/67_Add_Binary.py",
+		"/Users/haifenggeng/programming/lc/lc2016/66_Plus_One.py",
+		"/Users/haifenggeng/programming/lc/lc2016/65_Valid_Number.py",
+		"/Users/haifenggeng/programming/lc/lc2016/64_Minimum_Path_Sum.py",
 		"/Users/haifenggeng/programming/lc/lc2016/63_Unique_Paths_II.py",
 		"/Users/haifenggeng/programming/lc/lc2016/62_Unique_Paths.py",
 		"/Users/haifenggeng/programming/lc/lc2016/61_Rotate_List.py",
@@ -293,24 +356,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "64_Minimum_Path_Sum.py",
+					"file": "83_Remove_Duplicates_from_Sorted_List.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 944,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								231,
+								231
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -399,7 +463,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 141.0,
+	"side_bar_width": 150.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
