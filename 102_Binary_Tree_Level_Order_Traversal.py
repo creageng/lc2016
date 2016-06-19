@@ -29,7 +29,7 @@ class Solution(object):
         :rtype: List[List[int]]
         """
         if root is None:
-        	return []
+            return []
 
         nextLayer = [root]
         res = []
@@ -66,7 +66,7 @@ class Solution(object):
 
 
 
-        	
+            
         
 
 
