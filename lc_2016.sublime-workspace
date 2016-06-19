@@ -4,12 +4,64 @@
 		"selected_items":
 		[
 			[
-				"bo",
-				"board"
+				"gr",
+				"grayCode"
 			],
 			[
 				"re",
-				"res_comb"
+				"reverse_left"
+			],
+			[
+				"nums",
+				"nums2"
+			],
+			[
+				"num",
+				"nums2"
+			],
+			[
+				"n",
+				"not"
+			],
+			[
+				"p",
+				"p1"
+			],
+			[
+				"is",
+				"isScramble"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"a",
+				"atail"
+			],
+			[
+				"ne",
+				"next_node"
+			],
+			[
+				"h",
+				"heights"
+			],
+			[
+				"max",
+				"maxArea"
+			],
+			[
+				"l",
+				"largest"
+			],
+			[
+				"ma",
+				"maxArea"
+			],
+			[
+				"bo",
+				"board"
 			],
 			[
 				"min",
@@ -26,10 +78,6 @@
 			[
 				"s",
 				"start"
-			],
-			[
-				"a",
-				"appeared"
 			],
 			[
 				"m",
@@ -60,16 +108,8 @@
 				"word_len"
 			],
 			[
-				"ma",
-				"maxWidth"
-			],
-			[
 				"stack",
 				"stackLen"
-			],
-			[
-				"len",
-				"len_words"
 			],
 			[
 				"ob",
@@ -80,20 +120,12 @@
 				"col_st"
 			],
 			[
-				"ne",
-				"newInterval"
-			],
-			[
 				"str",
 				"startings"
 			],
 			[
 				"in",
 				"intervals"
-			],
-			[
-				"l",
-				"length"
 			],
 			[
 				"de",
@@ -108,16 +140,8 @@
 				"permuteUnique"
 			],
 			[
-				"p",
-				"pStar"
-			],
-			[
 				"nu",
 				"num2"
-			],
-			[
-				"n",
-				"num1"
 			],
 			[
 				"l_",
@@ -130,10 +154,6 @@
 			[
 				"words",
 				"wordsTotal"
-			],
-			[
-				"is",
-				"isPositive"
 			],
 			[
 				"di",
@@ -184,10 +204,10 @@
 	"buffers":
 	[
 		{
-			"file": "83_Remove_Duplicates_from_Sorted_List.py",
+			"file": "92_Reverse_Linked_List_II.py",
 			"settings":
 			{
-				"buffer_size": 944,
+				"buffer_size": 1428,
 				"line_ending": "Unix"
 			}
 		}
@@ -228,6 +248,15 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/91_Decode_Ways.py",
+		"/Users/haifenggeng/programming/lc/lc2016/90_Subsets_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/89_Gray_Code.py",
+		"/Users/haifenggeng/programming/lc/lc2016/88_Merge_Sorted_Array.py",
+		"/Users/haifenggeng/programming/lc/lc2016/87_Scramble_String.py",
+		"/Users/haifenggeng/programming/lc/lc2016/86_Partition_List.py",
+		"/Users/haifenggeng/programming/lc/lc2016/85_Maximal_Rectangle.py",
+		"/Users/haifenggeng/programming/lc/lc2016/84_Largest_Rectangle_in_Histogram.py",
+		"/Users/haifenggeng/programming/lc/lc2016/83_Remove_Duplicates_from_Sorted_List.py",
 		"/Users/haifenggeng/programming/lc/lc2016/82_Remove_Duplicates_from_Sorted_List_II.py",
 		"/Users/haifenggeng/programming/lc/lc2016/81_Search_in_Rotated_Sorted_Array_II.py",
 		"/Users/haifenggeng/programming/lc/lc2016/80_Remove_Duplicates_from_Sorted_Array_II.py",
@@ -356,19 +385,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "83_Remove_Duplicates_from_Sorted_List.py",
+					"file": "92_Reverse_Linked_List_II.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 944,
+						"buffer_size": 1428,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								231,
-								231
+								1151,
+								1151
 							]
 						],
 						"settings":
@@ -377,7 +406,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 384.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
