@@ -10,8 +10,10 @@
 # 10 - 2
 
 # backtracking
-# http://www.jiuzhang.com/solutions/gray-code/
+# # http://www.jiuzhang.com/solutions/gray-code/
 
+# 推广：n = i的grey code的前一半包括了n = i-1的所有grey code，
+# 而后一半则为前一半逆序后家上2^(i-1)。
 
 class Solution(object):
     def grayCode(self, n):
