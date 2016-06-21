@@ -36,27 +36,27 @@ class Solution(object):
         """
 
         if not root:
-        	return []
+            return []
 
         res = []
-       	currlevel = []
+        currlevel = []
         stack = [root]
         l2r = 1
 
         while stack:
-        	# access each level as queue
-        	for i in range(len(stack)):
-        		node = stack.pop()
-        		currlevel += [node.val]
+            # access each level as queue
+            for i in range(len(stack)):
+                node = stack.pop(0)
+                currlevel += [node.val]
 
-        		if node.left:
-        			stack.append(node.left)
-        		if node.right:
-        			stack.append(node.right)
+                if node.left:
+                    stack.append(node.left)
+                if node.right:
+                    stack.append(node.right)
 
-        	res += [currlevel[::l2r]]
-        	currlevel = []
-        	l2r *= -1
+            res += [currlevel[::l2r]]
+            currlevel = []
+            l2r *= -1
 
         return res
 

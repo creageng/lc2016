@@ -4,6 +4,34 @@
 		"selected_items":
 		[
 			[
+				"nex",
+				"nextLayer"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"is",
+				"isBST"
+			],
+			[
+				"s",
+				"self"
+			],
+			[
+				"va",
+				"validBST"
+			],
+			[
+				"in",
+				"inorderTraversal"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
 				"gr",
 				"grayCode"
 			],
@@ -26,10 +54,6 @@
 			[
 				"p",
 				"p1"
-			],
-			[
-				"is",
-				"isScramble"
 			],
 			[
 				"len",
@@ -76,10 +100,6 @@
 				"minsize"
 			],
 			[
-				"s",
-				"start"
-			],
-			[
 				"m",
 				"matrix"
 			],
@@ -122,10 +142,6 @@
 			[
 				"str",
 				"startings"
-			],
-			[
-				"in",
-				"intervals"
 			],
 			[
 				"de",
@@ -184,10 +200,6 @@
 				"lst_letters"
 			],
 			[
-				"le",
-				"letterCombinations"
-			],
-			[
 				"sum",
 				"sum_3"
 			],
@@ -204,10 +216,10 @@
 	"buffers":
 	[
 		{
-			"file": "92_Reverse_Linked_List_II.py",
+			"file": "103_Binary_Tree_Zigzag_Level_Order_Traversal.py",
 			"settings":
 			{
-				"buffer_size": 1428,
+				"buffer_size": 1231,
 				"line_ending": "Unix"
 			}
 		}
@@ -248,6 +260,16 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/102_Binary_Tree_Level_Order_Traversal.py",
+		"/Users/haifenggeng/programming/lc/lc2016/101_Symmetric_Tree.py",
+		"/Users/haifenggeng/programming/lc/lc2016/100_Same_Tree.py",
+		"/Users/haifenggeng/programming/lc/lc2016/99_Recover_Binary_Search_Tree.py",
+		"/Users/haifenggeng/programming/lc/lc2016/98_Validate_Binary_Search_Tree.py",
+		"/Users/haifenggeng/programming/lc/lc2016/94_Binary_Tree_Inorder_Traversal.py",
+		"/Users/haifenggeng/programming/lc/lc2016/97_Interleaving_String.py",
+		"/Users/haifenggeng/programming/lc/lc2016/96_Unique_Binary_Search_Trees.py",
+		"/Users/haifenggeng/programming/lc/lc2016/93_Restore_IP_Addresses.py",
+		"/Users/haifenggeng/programming/lc/lc2016/92_Reverse_Linked_List_II.py",
 		"/Users/haifenggeng/programming/lc/lc2016/91_Decode_Ways.py",
 		"/Users/haifenggeng/programming/lc/lc2016/90_Subsets_II.py",
 		"/Users/haifenggeng/programming/lc/lc2016/89_Gray_Code.py",
@@ -385,28 +407,27 @@
 			[
 				{
 					"buffer": 0,
-					"file": "92_Reverse_Linked_List_II.py",
+					"file": "103_Binary_Tree_Zigzag_Level_Order_Traversal.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1428,
+						"buffer_size": 1231,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1151,
-								1151
+								945,
+								945
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 384.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -492,7 +513,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 131.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
