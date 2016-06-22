@@ -22,18 +22,18 @@ class Solution(object):
         dp = [[0 for j in range(1, level+1)] for level in range(1, nlevels+1)]
         dp[0][0] = triangle[0][0]
 
-       	if len(triangle) == 1:
-       		return dp[0][0]
+        if len(triangle) == 1:
+            return dp[0][0]
 
-       	for level in range(1, nlevels):
+        for level in range(1, nlevels):
 
-       		dp[level][0] = triangle[level][0] +  dp[level-1][0]
-       		dp[level][level] = dp[level-1][level-1] +  triangle[level][level]
+            dp[level][0] = triangle[level][0] +  dp[level-1][0]
+            dp[level][level] = dp[level-1][level-1] +  triangle[level][level]
 
-       		for index in range(1, level):
-       			dp[level][index] = min(dp[level-1][index-1], dp[level-1][index]) + \
-       				triangle[level][index]
+            for index in range(1, level):
+                dp[level][index] = min(dp[level-1][index-1], dp[level-1][index]) + \
+                    triangle[level][index]
 
-       	return min(dp[nlevels - 1])
+        return min(dp[nlevels - 1])
 
 
