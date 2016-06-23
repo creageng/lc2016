@@ -4,20 +4,48 @@
 		"selected_items":
 		[
 			[
+				"min",
+				"min_price"
+			],
+			[
+				"mi",
+				"min_price"
+			],
+			[
+				"ma",
+				"maxProfit"
+			],
+			[
+				"le",
+				"level-1"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"tr",
+				"triangle"
+			],
+			[
+				"row",
+				"rowIndex"
+			],
+			[
+				"ro",
+				"rowIndex"
+			],
+			[
+				"first",
+				"firstnode"
+			],
+			[
 				"c",
-				"currList"
+				"connect"
 			],
 			[
 				"ha",
 				"hasPathSum"
-			],
-			[
-				"min",
-				"minDepth"
-			],
-			[
-				"mi",
-				"minDepth"
 			],
 			[
 				"De",
@@ -52,20 +80,12 @@
 				"rootPos"
 			],
 			[
-				"ro",
-				"rootPos"
-			],
-			[
 				"Tree",
 				"TreeNode"
 			],
 			[
 				"Tre",
 				"TreeNode"
-			],
-			[
-				"in",
-				"inorder"
 			],
 			[
 				"m",
@@ -90,10 +110,6 @@
 			[
 				"va",
 				"validBST"
-			],
-			[
-				"le",
-				"level"
 			],
 			[
 				"gr",
@@ -136,20 +152,12 @@
 				"maxArea"
 			],
 			[
-				"ma",
-				"maxArea"
-			],
-			[
 				"bo",
 				"board"
 			],
 			[
 				"mini",
 				"minsize"
-			],
-			[
-				"row",
-				"row1_zero"
 			],
 			[
 				"wo",
@@ -255,14 +263,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "113_Path_Sum_II.py",
-			"settings":
-			{
-				"buffer_size": 1138,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -300,6 +300,15 @@
 	],
 	"file_history":
 	[
+		"/Users/haifenggeng/programming/lc/lc2016/121_Best_Time_to_Buy_and_Sell_Stock.py",
+		"/Users/haifenggeng/programming/lc/lc2016/120_Triangle.py",
+		"/Users/haifenggeng/programming/lc/lc2016/119_Pascal's_Triangle_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/118_Pascal's_Triangle.py",
+		"/Users/haifenggeng/programming/lc/lc2016/117_Populating_Next_Right_Pointers_in_Each_Node_II.py",
+		"/Users/haifenggeng/programming/lc/lc2016/116_Populating_Next_Right_Pointers_in_Each_Node.py",
+		"/Users/haifenggeng/programming/lc/lc2016/115_Distinct_Subsequences.py",
+		"/Users/haifenggeng/programming/lc/lc2016/114. Flatten_Binary_Tree_to_Linked_List.py",
+		"/Users/haifenggeng/programming/lc/lc2016/113_Path_Sum_II.py",
 		"/Users/haifenggeng/programming/lc/lc2016/112_Path_Sum.py",
 		"/Users/haifenggeng/programming/lc/lc2016/111_Minimum_Depth_of_Binary_Tree.py",
 		"/Users/haifenggeng/programming/lc/lc2016/110_Balanced_Binary_Tree.py",
@@ -452,39 +461,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "113_Path_Sum_II.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1138,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								595,
-								595
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 123.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
