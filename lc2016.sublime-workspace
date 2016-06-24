@@ -4,20 +4,68 @@
 		"selected_items":
 		[
 			[
+				"val",
+				"value"
+			],
+			[
+				"n",
+				"node"
+			],
+			[
+				"path",
+				"pathVal"
+			],
+			[
+				"paht",
+				"pathVal"
+			],
+			[
+				"ma",
+				"maxLen"
+			],
+			[
+				"cu",
+				"currLen"
+			],
+			[
+				"par",
+				"part2"
+			],
+			[
+				"ch",
+				"chgChar"
+			],
+			[
+				"curr",
+				"currWord"
+			],
+			[
+				"be",
+				"beginWord"
+			],
+			[
+				"wor",
+				"wordList"
+			],
+			[
+				"c",
+				"class	New Class"
+			],
+			[
+				"num",
+				"numRows"
+			],
+			[
+				"N",
+				"nums2"
+			],
+			[
 				"IN",
 				"INT_MAX"
 			],
 			[
-				"n",
-				"nRows"
-			],
-			[
 				"nu",
 				"numRows"
-			],
-			[
-				"num",
-				"nums2"
 			],
 			[
 				"mi",
@@ -26,10 +74,6 @@
 			[
 				"nums",
 				"nums2"
-			],
-			[
-				"ma",
-				"maxL"
 			],
 			[
 				"re",
@@ -56,20 +100,12 @@
 				"combinationSum3"
 			],
 			[
-				"wor",
-				"words"
-			],
-			[
 				"ser",
 				"searchFrom"
 			],
 			[
 				"min",
 				"minLen"
-			],
-			[
-				"ch",
-				"children"
 			],
 			[
 				"f",
@@ -134,14 +170,6 @@
 			[
 				"v",
 				"v1_b"
-			],
-			[
-				"cu",
-				"currB"
-			],
-			[
-				"curr",
-				"currB"
 			],
 			[
 				"head",
@@ -360,10 +388,6 @@
 				"words_len"
 			],
 			[
-				"c",
-				"curr"
-			],
-			[
 				"pl",
 				"plusOne"
 			],
@@ -404,10 +428,6 @@
 				"solveSudokuRec"
 			],
 			[
-				"par",
-				"partitionIndex"
-			],
-			[
 				"pa",
 				"partitionIndex"
 			],
@@ -442,10 +462,6 @@
 			[
 				"vA",
 				"vA"
-			],
-			[
-				"val",
-				"ValidBST"
 			],
 			[
 				"find",
@@ -498,40 +514,16 @@
 			[
 				"thread",
 				"thread_count"
-			],
-			[
-				"main",
-				"main_thread"
-			],
-			[
-				"ini",
-				"Initialization"
-			],
-			[
-				"run",
-				"run_thread"
-			],
-			[
-				"sw",
-				"swap_threads"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "8_String_to_Integer_(atoi).py",
+			"file": "130_Surrounded_Regions.py",
 			"settings":
 			{
-				"buffer_size": 900,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/hngeng/Programming/Python/leetcode_2005/8_String_to_Integer_(atoi).py",
-			"settings":
-			{
-				"buffer_size": 643,
+				"buffer_size": 1142,
 				"line_ending": "Unix"
 			}
 		}
@@ -594,13 +586,28 @@
 	],
 	"file_history":
 	[
+		"/Users/hngeng/Programming/Python/leetcode_2016/130_Surrounded_Regions.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/129_Sum_Root_to_Leaf_Numbers.py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/129_Sum_Root_to_Leaf_Numbers.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/128_Longest_Consecutive_Sequence.py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/127_Word_Ladder.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/127_Word_Ladder.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/125_Valid_Palindrome.py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/10_Regular_Expression_Matching.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/10_Regular_Expression_Matching.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/9_Palindrome_Number.py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/9_Palindrome_Number.py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/6_zigzag_conversion.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/6_ ZigZag_Conversion.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/5_Longest_Palindromic_Substring.py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/5_Longest_Palindromic_Substring.py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/4_Median_of_Two_Sorted_Arrays.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/4_Median_of_Two_Sorted_Arrays .py",
+		"/Users/hngeng/Programming/Python/leetcode_2005/8_String_to_Integer_(atoi).py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/8_String_to_Integer_(atoi).py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/7_reverse_integer.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/7_Reverse_Integer.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/6_zigzag_conversion.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/6_ZigZag_Conversion.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/5_Longest_Palindromic_Substring.py",
-		"/Users/hngeng/Programming/Python/leetcode_2016/5_Longest_Palindromic_Substring.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/4_Median_of_Two_Sorted_Arrays.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/4_Median_of_Two_Sorted_Arrays.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/3_Longest Substring_Without_Repeating_Characters.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/100_Same_Tree.py",
@@ -702,26 +709,11 @@
 		"/Users/hngeng/Programming/Python/leetcode_2005/132_Palindrome_Partitioning_II.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/131_Palindrome_Partitioning.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/130_Surrounded_Regions.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/129_Sum_Root_to_Leaf_Numbers.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/128_Longest_Consecutive_Sequence.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/126_word_ladder_ii.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/127_Word_Ladder.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/125_Valid_Palindrome.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/124_Binary_Tree_Maximum_Path_Sum.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/3_Longest_Substring_Without_Repeating_Characters.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/123.Best_Time_to_Buy_and_Sell_Stock_III.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/122_Best_Time_to_Buy_and_Sell_Stock_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/121_Best_Time_to_Buy_and_Sell_Stock.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/120_Triangle.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/115_Distinct_Subsequences.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/119_Pascal's_Triangle_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/118_Pascal's_Triangle.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/117_Populating_Next_Right_Pointers_in_Each_Node_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/116_Populating_Next_Right_Pointers_in_Each_Node.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/114_Flatten_Binary_Tree_to_Linked_List.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/113_Path_Sum_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/112_Path_Sum.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/111_Minimum_Depth_of_Binary_Tree.py"
+		"/Users/hngeng/Programming/Python/leetcode_2005/3_Longest_Substring_Without_Repeating_Characters.py"
 	],
 	"find":
 	{
@@ -911,56 +903,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "8_String_to_Integer_(atoi).py",
+					"file": "130_Surrounded_Regions.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 900,
+						"buffer_size": 1142,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								645,
-								645
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"syntax": "Packages/Python/Python.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"file": "/Users/hngeng/Programming/Python/leetcode_2005/8_String_to_Integer_(atoi).py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 643,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								629,
-								632
+								903,
+								903
 							]
 						],
 						"settings":
@@ -976,7 +931,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -999,18 +954,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.41672856354,
 			1.0
 		],
 		"rows":
@@ -1074,7 +1022,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 166.0,
+	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
