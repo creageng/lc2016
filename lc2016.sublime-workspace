@@ -4,12 +4,120 @@
 		"selected_items":
 		[
 			[
-				"val",
-				"value"
+				"s",
+				"self"
+			],
+			[
+				"min",
+				"minStack"
+			],
+			[
+				"ma",
+				"max_tmp"
+			],
+			[
+				"op",
+				"op1"
+			],
+			[
+				"t",
+				"tokens"
+			],
+			[
+				"sle",
+				"slope"
+			],
+			[
+				"point",
+				"points"
+			],
+			[
+				"sel",
+				"slope"
+			],
+			[
+				"h",
+				"head2"
+			],
+			[
+				"hea",
+				"head1"
+			],
+			[
+				"head",
+				"head1"
+			],
+			[
+				"ha",
+				"head"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"c",
+				"collections"
+			],
+			[
+				"pre",
+				"preorder"
+			],
+			[
+				"cur",
+				"curr1"
+			],
+			[
+				"is",
+				"iscycle"
+			],
+			[
+				"sen",
+				"sentences"
+			],
+			[
+				"wor",
+				"wordDict"
+			],
+			[
+				"wo",
+				"wordDict"
+			],
+			[
+				"w",
+				"wordDict"
+			],
+			[
+				"ne",
+				"next"
+			],
+			[
+				"p",
+				"pnew"
 			],
 			[
 				"n",
-				"node"
+				"next"
+			],
+			[
+				"nu",
+				"nums"
+			],
+			[
+				"st",
+				"stationIndex"
+			],
+			[
+				"srin",
+				"stringList"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"val",
+				"value"
 			],
 			[
 				"path",
@@ -18,10 +126,6 @@
 			[
 				"paht",
 				"pathVal"
-			],
-			[
-				"ma",
-				"maxLen"
 			],
 			[
 				"cu",
@@ -44,14 +148,6 @@
 				"beginWord"
 			],
 			[
-				"wor",
-				"wordList"
-			],
-			[
-				"c",
-				"class	New Class"
-			],
-			[
 				"num",
 				"numRows"
 			],
@@ -64,20 +160,12 @@
 				"INT_MAX"
 			],
 			[
-				"nu",
-				"numRows"
-			],
-			[
 				"mi",
 				"minV"
 			],
 			[
 				"nums",
 				"nums2"
-			],
-			[
-				"re",
-				"remain"
 			],
 			[
 				"n_",
@@ -104,10 +192,6 @@
 				"searchFrom"
 			],
 			[
-				"min",
-				"minLen"
-			],
-			[
 				"f",
 				"flagged"
 			],
@@ -120,20 +204,12 @@
 				"False"
 			],
 			[
-				"is",
-				"islands"
-			],
-			[
 				"le",
 				"levelorder"
 			],
 			[
 				"pice",
 				"prices"
-			],
-			[
-				"se",
-				"sequence"
 			],
 			[
 				"str",
@@ -172,14 +248,6 @@
 				"v1_b"
 			],
 			[
-				"head",
-				"headA"
-			],
-			[
-				"cur",
-				"currB"
-			],
-			[
 				"el",
 				"elements"
 			],
@@ -188,32 +256,8 @@
 				"samePointsNum"
 			],
 			[
-				"hea",
-				"head1"
-			],
-			[
-				"ha",
-				"head1"
-			],
-			[
 				"has",
 				"hasUpdated"
-			],
-			[
-				"h",
-				"hasUpdated"
-			],
-			[
-				"pre",
-				"preorderTraversal"
-			],
-			[
-				"ne",
-				"newhead"
-			],
-			[
-				"p",
-				"pnew"
 			],
 			[
 				"ra",
@@ -230,10 +274,6 @@
 			[
 				"sta",
 				"station_ix"
-			],
-			[
-				"s",
-				"self"
 			],
 			[
 				"part",
@@ -262,10 +302,6 @@
 			[
 				"pr",
 				"prices"
-			],
-			[
-				"t",
-				"try	Try/Except"
 			],
 			[
 				"El",
@@ -340,10 +376,6 @@
 				"grayCode"
 			],
 			[
-				"w",
-				"walker"
-			],
-			[
 				"S",
 				"Solution"
 			],
@@ -382,10 +414,6 @@
 			[
 				"sp",
 				"space_len"
-			],
-			[
-				"wo",
-				"words_len"
 			],
 			[
 				"pl",
@@ -486,44 +514,32 @@
 			[
 				"sche",
 				"schedulerContext"
-			],
-			[
-				"target",
-				"targetContext"
-			],
-			[
-				"sch",
-				"sched_context"
-			],
-			[
-				"nw",
-				"new_thread"
-			],
-			[
-				"man",
-				"main_thread"
-			],
-			[
-				"print",
-				"printf	printf …"
-			],
-			[
-				"C",
-				"CANCEL"
-			],
-			[
-				"thread",
-				"thread_count"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "130_Surrounded_Regions.py",
+			"file": "155_Min_Stack.py",
 			"settings":
 			{
-				"buffer_size": 1142,
+				"buffer_size": 2078,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "153_Find_Minimum_in_Rotated_Sorted_Array.py",
+			"settings":
+			{
+				"buffer_size": 523,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\n\n\n\n\n\n\n",
+			"settings":
+			{
+				"buffer_size": 8,
 				"line_ending": "Unix"
 			}
 		}
@@ -586,6 +602,31 @@
 	],
 	"file_history":
 	[
+		"/Users/hngeng/Programming/Python/leetcode_2016/154_Find_Minimum_in_Rotated_Sorted_Array_II.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/54_Find_Minimum_in_Rotated_Sorted_Array_II.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/153_Find_Minimum_in_Rotated_Sorted_Array.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/152_Maximum_Product_Subarray.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/151_Reverse_Words_in_a_String.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/150_Evaluate_Reverse_Polish_Notation.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/149_Max_Points_on_a_Line.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/148_Sort_List.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/147_Insertion_Sort_List.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/146_LRU_Cache.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/145_Binary_Tree_Postorder_Traversal.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/144_Binary_Tree_Preorder_Traversal.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/143_Reorder_List.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/142_Linked_List_Cycle_II.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/141_Linked_List_Cycle.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/140_Word_Break_II.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/139_Word_Break.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/138_Copy_List_with_Random_Pointer.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/137_Single_Number_II.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/136_Single_Number.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/135_Candy.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/134_Gas_Station.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/133_Clone_Graph.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/132_Palindrome_Partitioning_II.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/131_Palindrome_Partitioning.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/130_Surrounded_Regions.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/129_Sum_Root_to_Leaf_Numbers.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/129_Sum_Root_to_Leaf_Numbers.py",
@@ -688,32 +729,7 @@
 		"/Users/hngeng/Programming/Python/leetcode_2005/153_Find_Minimum_in_Rotated_Sorted_Array.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/152_Maximum_Product_Subarray.py",
 		"/Users/hngeng/Programming/Python/leetcode_2005/151_Reverse_Words_in_a_String.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/150_Evaluate_Reverse_Polish_Notation.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/136_Single_Number.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/149_Max_Points_on_a_Line.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/148_Sort_List.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/147_Insertion_Sort_List.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/146_LRU_Cache.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/144_Binary_Tree_Preorder_Traversal.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/145_Binary_Tree_Postorder_Traversal.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/143_Reorder_List.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/142_Linked_List_Cycle_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/141_Linked_List_Cycle.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/140_Word_Break_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/139_Word_Break.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/138_Copy_List_with_Random_Pointer.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/137_Single_Number_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/135_Candy.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/134_Gas_Station.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/133_Clone_Graph.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/132_Palindrome_Partitioning_II.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/131_Palindrome_Partitioning.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/130_Surrounded_Regions.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/128_Longest_Consecutive_Sequence.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/126_word_ladder_ii.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/125_Valid_Palindrome.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/124_Binary_Tree_Maximum_Path_Sum.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/3_Longest_Substring_Without_Repeating_Characters.py"
+		"/Users/hngeng/Programming/Python/leetcode_2005/150_Evaluate_Reverse_Polish_Notation.py"
 	],
 	"find":
 	{
@@ -903,19 +919,55 @@
 			[
 				{
 					"buffer": 0,
-					"file": "130_Surrounded_Regions.py",
+					"file": "155_Min_Stack.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1142,
+						"buffer_size": 2078,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								903,
-								903
+								2056,
+								1506
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "153_Find_Minimum_in_Rotated_Sorted_Array.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -931,7 +983,35 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8,
+								8
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -954,11 +1034,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.643091018712,
 			1.0
 		],
 		"rows":
@@ -1022,7 +1109,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 238.0,
+	"side_bar_width": 161.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
