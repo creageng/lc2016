@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"index"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"r",
+				"rsteps"
+			],
+			[
+				"s",
+				"strNum"
+			],
+			[
 				"i",
 				"iterate"
 			],
@@ -22,10 +38,6 @@
 			[
 				"lv",
 				"lv2"
-			],
-			[
-				"r",
-				"r"
 			],
 			[
 				"loc",
@@ -74,10 +86,6 @@
 			[
 				"head",
 				"headA"
-			],
-			[
-				"s",
-				"self"
 			],
 			[
 				"op",
@@ -216,10 +224,6 @@
 				"n_non_vowels"
 			],
 			[
-				"in",
-				"inx"
-			],
-			[
 				"bui",
 				"buildings"
 			],
@@ -242,10 +246,6 @@
 			[
 				"F",
 				"False"
-			],
-			[
-				"le",
-				"levelorder"
 			],
 			[
 				"pice",
@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "174_Dungeon_Game.py",
+			"file": "204_Count_Primes.py",
 			"settings":
 			{
-				"buffer_size": 2147,
+				"buffer_size": 595,
 				"line_ending": "Unix"
 			}
 		},
@@ -594,6 +594,19 @@
 	],
 	"file_history":
 	[
+		"/Users/hngeng/Programming/Python/leetcode_2016/203_Remove_Linked_List_Elements.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/202_Happy_Number.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/201_Bitwise_AND_of_Numbers_Range.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/200_Number_of_Islands.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/188_Best_Time_to_Buy_and_Sell_Stock_IV.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/199_Binary_Tree_Right_Side_View.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/198_House_Robber.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/191_Number_of_1_Bits.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/190_Reverse_Bits.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/189_Rotate_Array.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/187_Repeated_DNA_Sequences.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/179_Largest_Number.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/174_Dungeon_Game.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/173_Binary_Search_Tree_Iterator.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/172_Factorial_Trailing_Zeroes.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/171_Excel_Sheet_Column_Number.py",
@@ -708,20 +721,7 @@
 		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/199_Binary_Tree_Right_Side_View.py",
 		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/198_House_Robber.py",
 		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/191_Number_of_1_Bits.py",
-		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/190_Reverse_Bits.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/188_Best_Time_to_Buy_and_Sell_Stock_IV.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/189_Rotate_Array.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/187_Repeated DNA_Sequences.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/179_Largest_Number.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/173_Binary_Search_Tree_Iterator.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/172_Factorial_Trailing_Zeroes.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/171_Excel_Sheet_Column_Number.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/169_Majority_Element.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/168_Excel_Sheet_Column_Title.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/166_Fraction_to_Recurring_Decimal.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/165_Compare_Version_Numbers.py",
-		"/Users/hngeng/Programming/Python/leetcode_2005/164_Maximum_Gap.py",
-		"/Users/hngeng/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/190_Reverse_Bits.py"
 	],
 	"find":
 	{
@@ -740,6 +740,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"index",
 			"Zeroes",
 			"parse_biom_table",
 			"parse_classic_table_to_rich_table",
@@ -866,8 +867,7 @@
 			"end",
 			"if number_num",
 			"swith",
-			"switch",
-			"state"
+			"switch"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -875,6 +875,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"isPrime",
 			"stackLen",
 			"stack",
 			"d",
@@ -911,19 +912,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "174_Dungeon_Game.py",
+					"file": "204_Count_Primes.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2147,
+						"buffer_size": 595,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2143,
-								1076
+								595,
+								595
 							]
 						],
 						"settings":
@@ -932,8 +933,8 @@
 							"syntax": "Packages/Python/Python.tmLanguage",
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
-						"translation.y": 51.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1006,7 +1007,7 @@
 		"cols":
 		[
 			0.0,
-			0.946808510638,
+			0.835128182769,
 			1.0
 		],
 		"rows":
@@ -1032,7 +1033,7 @@
 	"project": "lc2016.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1070,7 +1071,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 161.0,
+	"side_bar_width": 197.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
