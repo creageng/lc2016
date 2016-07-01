@@ -4,8 +4,48 @@
 		"selected_items":
 		[
 			[
+				"Tri",
+				"TrieNode"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"Tr",
+				"TrieNode"
+			],
+			[
 				"in",
-				"index"
+				"indegree"
+			],
+			[
+				"cou",
+				"courses"
+			],
+			[
+				"c",
+				"courses"
+			],
+			[
+				"chil",
+				"child"
+			],
+			[
+				"cour",
+				"course"
+			],
+			[
+				"de",
+				"degrees"
+			],
+			[
+				"pre",
+				"prerequisites"
+			],
+			[
+				"num",
+				"numCourses"
 			],
 			[
 				"le",
@@ -46,10 +86,6 @@
 			[
 				"lo",
 				"localMin"
-			],
-			[
-				"num",
-				"nums"
 			],
 			[
 				"min",
@@ -120,14 +156,6 @@
 				"self"
 			],
 			[
-				"c",
-				"collections"
-			],
-			[
-				"pre",
-				"preorder"
-			],
-			[
 				"cur",
 				"curr1"
 			],
@@ -192,10 +220,6 @@
 				"part2"
 			],
 			[
-				"ch",
-				"chgChar"
-			],
-			[
 				"curr",
 				"currWord"
 			],
@@ -258,10 +282,6 @@
 			[
 				"l",
 				"loopStr"
-			],
-			[
-				"de",
-				"denominator"
 			],
 			[
 				"d",
@@ -494,44 +514,16 @@
 			[
 				"two",
 				"twosum2pair"
-			],
-			[
-				"remove",
-				"removeList"
-			],
-			[
-				"if",
-				"ifmain	if __name__ == '__main__'"
-			],
-			[
-				"lev",
-				"levelorder"
-			],
-			[
-				"square",
-				"squareSum"
-			],
-			[
-				"vA",
-				"vA"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "204_Count_Primes.py",
+			"file": "209_Minimum_Size_Subarray_Sum.py",
 			"settings":
 			{
-				"buffer_size": 595,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "\n\n\n\n\n\n\n\n",
-			"settings":
-			{
-				"buffer_size": 8,
+				"buffer_size": 1839,
 				"line_ending": "Unix"
 			}
 		}
@@ -594,6 +586,11 @@
 	],
 	"file_history":
 	[
+		"/Users/hngeng/Programming/Python/leetcode_2016/208_Implement_Trie_(Prefix Tree).py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/207_Course_Schedule.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/206_Reverse_Linked_List.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/205_Isomorphic_Strings.py",
+		"/Users/hngeng/Programming/Python/leetcode_2016/204_Count_Primes.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/203_Remove_Linked_List_Elements.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/202_Happy_Number.py",
 		"/Users/hngeng/Programming/Python/leetcode_2016/201_Bitwise_AND_of_Numbers_Range.py",
@@ -716,16 +713,11 @@
 		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/204_Count_Primes.py",
 		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/203_Remove_Linked_List_Elements.py",
 		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/202_Happy_Number.py",
-		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/201_Bitwise_AND_of_Numbers_Range.py",
-		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/200_Number_of_Islands.py",
-		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/199_Binary_Tree_Right_Side_View.py",
-		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/198_House_Robber.py",
-		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/191_Number_of_1_Bits.py",
-		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/190_Reverse_Bits.py"
+		"/Users/hngeng/Programming/GT/CS6290_HPA/Project1/submit/201_Bitwise_AND_of_Numbers_Range.py"
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -740,6 +732,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"p",
 			"index",
 			"Zeroes",
 			"parse_biom_table",
@@ -866,8 +859,7 @@
 			"function",
 			"end",
 			"if number_num",
-			"swith",
-			"switch"
+			"swith"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -875,6 +867,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"prev",
 			"isPrime",
 			"stackLen",
 			"stack",
@@ -912,19 +905,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "204_Count_Primes.py",
+					"file": "209_Minimum_Size_Subarray_Sum.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 595,
+						"buffer_size": 1839,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								595,
-								595
+								1829,
+								1150
 							]
 						],
 						"settings":
@@ -934,46 +927,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 481.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8,
-								8
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -996,18 +953,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.835128182769,
 			1.0
 		],
 		"rows":
@@ -1033,7 +983,7 @@
 	"project": "lc2016.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 87.0
 	},
 	"save_all_on_build": true,
 	"select_file":
