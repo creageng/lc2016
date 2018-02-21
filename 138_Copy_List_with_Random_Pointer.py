@@ -63,7 +63,34 @@ class Solution(object):
 
 
 
-
+class Solution(object):
+    def copyRandomList(self, head):
+    """
+    :type head: RandomListNode
+    :rtype: RandomListNode
+    """
+    d = dict()
+    d[None] = None
+    m = head
+    while head:
+        if head not in d:
+            cpHead = RandomListNode(head.label)
+            d[head] = cpHead
+            
+        if head.random not in d:
+            cpRandom = RandomListNode(head.random.label)
+            d[head.random]=cpRandom
+        
+        if head.next not in d:
+            cpNext = RandomListNode(head.next.label)
+            d[head.next]=cpNext
+            
+        d[head].next = d[head.next]
+        d[head].random = d[head.random]
+        
+        head = head.next
+    return d[m]
+            
 
 
 
